@@ -1,4 +1,3 @@
-<img src="![Header](./your-header-image-name.png)">
 
 
 
