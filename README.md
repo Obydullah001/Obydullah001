@@ -1,4 +1,4 @@
-![Header](https://github.com/Obydullah001/Obydullah001/blob/78e4ebda313b7dc0aedae4d408bbab937206237c/github-header-image.png?raw=true)
+![Header](Obydullah Hasib Banner Github png.png)
 
 
 <h1 align="center">Hi 👋, I'm Obydullah Hasib</h1>
