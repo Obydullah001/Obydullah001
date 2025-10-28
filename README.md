@@ -8,7 +8,7 @@ A passionate frontend developer Working on HTML ,CSS ,Tailwind, JavaScript & Rea
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obydullah001&label=Profile%20views&color=0e75b6&style=flat" alt="obydullah001" /> </p>
 
-- 🔭 I’m currently working on [Marathon Event Creating , Managing & Registration website](https://marathon-spinner-auth.web.app/)
+- 🔭 I’m currently working on [Marathon Event Creating , Managing & Registration website](https://venerable-starlight-df367e.netlify.app/)
 
 - 📫 How to reach me **hasibobydullah001@gmail.com**
 
